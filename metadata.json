@@ -1,0 +1,6 @@
+{
+  "name": "K N Foundation",
+  "description": "খতমে নবুয়াত ফাউন্ডেশন - যৌথ মূলধনের মাধ্যমে শরীয়াসম্মত ব্যবসায়ীক কার্যক্রম পরিচালনা উদ্দেশ্যে গঠিত সংগঠন",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
